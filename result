@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="0" hostname="Michaels-MacBook-Air.local" name="pytest" skipped="0" tests="2" time="0.043" timestamp="2021-09-17T11:50:31.879489"><testcase classname="testing.test_calc" name="test_add" time="0.001" /><testcase classname="testing.test_calc" name="test_div" time="0.000" /></testsuite></testsuites>
